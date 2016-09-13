@@ -1,5 +1,6 @@
 <application>
   <component name="ScalaSettings">
+    <option name="COMPILE_SERVER_PORT" value="61106" />
     <option name="COMPILE_SERVER_ID" value="e1c80c39-346c-4356-a11a-0210b5ca19f0" />
     <option name="COMPILE_SERVER_SDK" value="1.7" />
     <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="2048" />
