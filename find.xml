@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,11 +17,13 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.soy</mask>
-      <mask>*.scala</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.con</mask>
       <mask>*.conf</mask>
+      <mask>*.sc</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
