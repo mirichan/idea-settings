@@ -6,7 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -15,16 +14,26 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
-      <mask>*.soy</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.con</mask>
       <mask>*.conf</mask>
-      <mask>*.sc</mask>
-      <mask>*.scal</mask>
       <mask>~*.scala</mask>
       <mask>!*.scala</mask>
       <mask>*.scala</mask>
+      <mask>*.scal</mask>
+      <mask>*.sca</mask>
+      <mask>*.sc</mask>
+      <mask>*.soy</mask>
+      <mask>*.so</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertes</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
