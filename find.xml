@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -18,11 +19,7 @@
       <mask>*.conf</mask>
       <mask>~*.scala</mask>
       <mask>!*.scala</mask>
-      <mask>*.scala</mask>
-      <mask>*.scal</mask>
       <mask>*.sca</mask>
-      <mask>*.sc</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.proper</mask>
@@ -34,8 +31,12 @@
       <mask>*.sol</mask>
       <mask>*.so</mask>
       <mask>*.soy</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.sc</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
