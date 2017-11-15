@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.c</mask>
-      <mask>*.con</mask>
-      <mask>~*.scala</mask>
-      <mask>!*.scala</mask>
-      <mask>*.sca</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.propertes</mask>
@@ -25,7 +19,6 @@
       <mask>*.properties</mask>
       <mask>*.co</mask>
       <mask>*.confg</mask>
-      <mask>*.conf</mask>
       <mask>*.sc</mask>
       <mask>*.js</mask>
       <mask>*.s</mask>
@@ -34,6 +27,14 @@
       <mask>*.y</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>l</mask>
+      <mask>.</mask>
+      <mask>.c</mask>
+      <mask>.co</mask>
+      <mask>.con</mask>
+      <mask>&amp;.conf</mask>
+      <mask>.conf</mask>
+      <mask>*.conf</mask>
     </recentFileMasks>
   </component>
 </application>
