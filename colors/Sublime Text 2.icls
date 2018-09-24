@@ -58,6 +58,7 @@
         <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a2323" />
