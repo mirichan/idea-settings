@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.soly</mask>
-      <mask>*.sol</mask>
-      <mask>*.so</mask>
-      <mask>*.soy</mask>
-      <mask>*.j</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
-      <mask>*.confg</mask>
-      <mask>*.js</mask>
-      <mask>*.y</mask>
-      <mask>*</mask>
-      <mask>l</mask>
-      <mask>.</mask>
-      <mask>.c</mask>
-      <mask>.co</mask>
-      <mask>.con</mask>
-      <mask>&amp;.conf</mask>
-      <mask>.conf</mask>
-      <mask>*.con</mask>
-      <mask>*.co</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scal</mask>
-      <mask>!*.scala</mask>
-      <mask>*.scala</mask>
-      <mask>*.conf</mask>
-    </recentFileMasks>
   </component>
 </application>
