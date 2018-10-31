@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".asap-config" type="JSON" />
       <mapping pattern="somekey" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
     </extensionMap>
