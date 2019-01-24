@@ -12,5 +12,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
